@@ -1,3 +1,5 @@
+Make sure too add a .env file with the following - 
+
  
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
